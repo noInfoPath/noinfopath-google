@@ -1,6 +1,6 @@
 /* 
  * noinfopath-google
- * @version 0.0.2
+ * @version 0.0.3
  * This is simply an angular wrapper around the Google Maps JS API, so it can be injected
 */and mocked when necessary.
 
