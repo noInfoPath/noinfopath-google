@@ -1,6 +1,6 @@
 {
-  "name": "noinfopath-google",
-  "version": "0.0.3",
+  "name": "@noinfopath/noinfopath-google",
+  "version": "2.0.0",
   "description": "AngularJS wrapper around Google API Services",
   "license": "MIT",
   "main": "",
